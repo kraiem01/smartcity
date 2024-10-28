@@ -1,0 +1,3 @@
+#!c:\Users\houss\Desktop\github-project\smartcity\.venv\Scripts\python.exe
+from spark import spark_admin
+spark_admin.main()
